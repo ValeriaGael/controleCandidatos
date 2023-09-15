@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ligandoCandidatos",
+            "request": "launch",
+            "mainClass": "candidatura.ligandoCandidatos",
+            "projectName": "controleCandidatos_a901d49f"
+        },
+        {
+            "type": "java",
+            "name": "selecaoCandidatos",
+            "request": "launch",
+            "mainClass": "candidatura.selecaoCandidatos",
+            "projectName": "controleCandidatos_a901d49f"
+        },
+        {
+            "type": "java",
+            "name": "case4",
+            "request": "launch",
+            "mainClass": "candidatura.case4",
+            "projectName": "controleCandidatos_a901d49f"
+        },
+        {
+            "type": "java",
+            "name": "case3",
+            "request": "launch",
+            "mainClass": "candidatura.case3",
+            "projectName": "controleCandidatos_a901d49f"
+        },
+        {
+            "type": "java",
+            "name": "case2",
+            "request": "launch",
+            "mainClass": "candidatura.case2",
+            "projectName": "controleCandidatos_a901d49f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "candidatura.ProcessoSeletivo",
+            "projectName": "controleCandidatos_a901d49f"
+        }
+    ]
+}
